@@ -1,0 +1,5 @@
+# images
+
+基于 GitHub 的图床仓库。
+
+可使用 `https://cdn.jsdelivr.net/gh/null-qwerty/images/[file]` 加速访问。
